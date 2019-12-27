@@ -13,8 +13,8 @@
     <!--  新城控股B座  31.227944,121.388493-->
     <!--  故宫：116.397026,39.918058-->
     <!--  八角东街：纬度：39.907738,经度：116.193559-->
-    <wpt lat="39.909203" lon="116.199743">
-        <name>Cupertino</name>
+    <wpt lat="31.245072" lon="121.549132">
+        <name>LCM置汇旭辉广场</name>
         
         <!--
          Optionally provide a time element for each waypoint. Xcode will interpolate movement
